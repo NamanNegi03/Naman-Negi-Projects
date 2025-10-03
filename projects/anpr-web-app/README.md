@@ -30,8 +30,8 @@ This project is an Automatic Number Plate Recognition (ANPR) system deployed as 
 
 ## Screenshots
 - ### Upload your image in **Choose Image** option and click **Proceed**
-![Project Interface](Web-app-usage.png)
+![Project Interface](images\Web-app-results-1.png)
 - ### Desired Results: **OCR Value** with **Confidence of Prediction**
-![ANPR web app detecting multiple plates](Web-app-results-1.png)  
+![ANPR web app detecting multiple plates](images/Web-app-results-1.png)  
 - ### Overview of how License Plate Detection and Recognition works along with Timestamp and Processing Time 
-![Batch processing results from web app](Web-app-results-2.png)  
+![Batch processing results from web app](images/Web-app-results-2.png)  
