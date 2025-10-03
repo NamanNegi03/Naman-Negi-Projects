@@ -30,6 +30,6 @@ This project is an Automatic Number Plate Recognition (ANPR) system deployed as 
 
 ## Screenshots
 ### Upload your image in **Choose Image** option and click **Proceed**
-![Project Interface](Naman-Negi-Projects\projects\anpr-web-app\Web-app-usage.png)
-![ANPR web app detecting multiple plates](Naman-Negi-Projects/projects/anpr-web-app/Web-app-results-1.png)  
-![Batch processing results from web app](Naman-Negi-Projects\projects\anpr-web-app\Web-app-results-2.png)  
+![Project Interface](Web-app-usage.png)
+![ANPR web app detecting multiple plates](Web-app-results-1.png)  
+![Batch processing results from web app](Web-app-results-2.png)  
