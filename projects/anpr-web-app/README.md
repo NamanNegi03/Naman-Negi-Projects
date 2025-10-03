@@ -29,5 +29,7 @@ This project is an Automatic Number Plate Recognition (ANPR) system deployed as 
 - Used in parking management systems.  
 
 ## Screenshots
-![ANPR web app detecting multiple plates](anpr_web_output1.png)  
-![Batch processing results from web app](anpr_web_output2.png)  
+### Upload your image in **Choose Image** option and click **Proceed**
+![Project Interface](Naman-Negi-Projects\projects\anpr-web-app\Web-app-usage.png)
+![ANPR web app detecting multiple plates](Naman-Negi-Projects/projects/anpr-web-app/Web-app-results-1.png)  
+![Batch processing results from web app](Naman-Negi-Projects\projects\anpr-web-app\Web-app-results-2.png)  
