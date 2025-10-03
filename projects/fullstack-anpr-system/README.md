@@ -27,6 +27,12 @@ A complete end-to-end ANPR solution developed for physical deployment at real si
 - Automated vehicle tracking enabled.  
 
 ## Screenshots
-![Camera open during calibration setup](camera_setup.png)  
-![Deployed ANPR model running on-site](deployed_anpr_system.png)  
-![Recognition output from deployed site](anpr_output_site.png)  
+- ## Camera open during calibration setup
+![Camera open during calibration setup](images/camera_caliberation.jpg)  
+- ## Deployed ANPR model running on-site
+![Deployed ANPR model running on-site](images/deployed_model.jpg)  
+- ## Recognition output from deployed site full frame
+![Recognition output from deployed site full frame](images/full_frame.jpg)  
+- ## Recognition output from deployed site license plate detection and ocr frame
+![Recognition output from deployed site lpd frame](images/lpd_frame.jpg)  
+- ## Plate OCR: UP14FS1771 Confidence: 90

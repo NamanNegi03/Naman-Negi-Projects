@@ -27,4 +27,5 @@ IoT-based parking management solution using RFID, built for entry/exit synchroni
 - Reliable automated barrier control.  
 
 ## Screenshots
-![Setup with Raspberry Pi and RFID readers](rfid_system_setup.png)  
+- ## Setup with Raspberry Pi and RFID readers
+![Setup with Raspberry Pi and RFID readers](images/rfid_setup.jpg)  
