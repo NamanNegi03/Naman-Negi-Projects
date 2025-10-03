@@ -40,10 +40,10 @@ A complete end-to-end ANPR solution developed for physical deployment at real si
 ## Screenshots  
 
 - ## Camera open during calibration setup  
-<img src="images/camera_caliberation.jpg" alt="Camera open during calibration setup" width="500" height="300"/>  
+<img src="images/camera_caliberation.jpg" alt="Camera open during calibration setup" width="400" height="500"/>  
 
 - ## Deployed ANPR model running on-site  
-<img src="images/deployed_model.jpg" alt="Deployed ANPR model running on-site" width="500" height="300"/>  
+<img src="images/deployed_model.jpg" alt="Deployed ANPR model running on-site" width="400" height="500"/>  
 
 - ## Recognition output from deployed site full frame  
 <img src="images/full_frame.jpg" alt="Recognition output from deployed site full frame" width="500" height="300"/>  
@@ -51,4 +51,4 @@ A complete end-to-end ANPR solution developed for physical deployment at real si
 - ## Recognition output from deployed site license plate detection and ocr frame  
 <img src="images/lpd_frame.jpg" alt="Recognition output from deployed site lpd frame" width="500" height="300"/>  
 
-- ## Plate OCR: UP14FS1771 Confidence: 90  
+- ## Plate OCR: UP14FS1771 | Confidence: 90  
