@@ -28,7 +28,8 @@ A complete end-to-end ANPR solution developed for physical deployment at real si
 
 ## Screenshots
 - ## Camera open during calibration setup
-![Camera open during calibration setup](images/camera_caliberation.jpg)  
+<!-- ![Camera open during calibration setup](images/camera_caliberation.jpg)   -->
+<img src="images/camera_caliberation.jpg" alt="Camera open during calibration setup" width="500"/>
 - ## Deployed ANPR model running on-site
 ![Deployed ANPR model running on-site](images/deployed_model.jpg)  
 - ## Recognition output from deployed site full frame
