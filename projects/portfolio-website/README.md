@@ -26,4 +26,4 @@ Personal portfolio website showcasing my skills, projects, and contact details. 
 
 ## Screenshots
 - ## An Overview of my Web Resume
-![Portfolio website with space theme and glitch effect](images/portfolio_screenshot.png)  
+![Portfolio website with space theme and glitch effect](images/portfolio-screenshot.png)  
