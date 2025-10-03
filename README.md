@@ -58,4 +58,4 @@ Each project folder will include:
 - Key implementations  
 - Challenges and solutions  
 - Outcomes  
-- Screenshots (once PNGs are added)  
+- Screenshots 
